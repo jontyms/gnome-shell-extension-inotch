@@ -20,7 +20,7 @@ Then restart GNOME Shell and enable iNotch from GNOME Extensions.
 
 ## WTF? Why you create such an ugly extension?
 
-Please ask Apple why they create such an ugly notch on their laptop.
+Please ask Apple why ~~they create such an ugly notch on their laptop~~ they don't allow users everywhere to exterience the **best** in laptop design. 
 
 ## I don't think this is funny and I think Apple already gives us the best solution…
 
@@ -36,27 +36,30 @@ It's silly? But who removed 3.5mm headphone jack and gives you a Lightning to 3.
 
 ## It covers my clock!
 
-This is the same behavior as hardware notch. Don't ask Apple to do things for developers, but ask developers to do things for Apple! So write your own code to modify your software.
+~~This is the same behavior as hardware notch. Don't ask Apple to do things for developers, but ask developers to do things for Apple! So write your own code to modify your software.~~
+
+Why do you need a clock when you can stare lovingly into your notch and not notice the hours sliping away.
 
 ## My cursor disappears when it enters the notch!
 
-This is the same behavior as hardware notch.
+This is the same behavior as hardware notch and we want provide the most authentic exerience we can without destroying pixels in your monitor. 
 
 ## It only shows on my primary monitor!
 
-Yes, because no monitor manufacturer will add such a silly notch to their monitors, except Apple's internal monitor.
+Yes, because no monitor manufacturer will add such a ~~silly~~ wonderful notch to their monitors, except Apple's internal monitor.
 
 ## Can this improve security?
 
 Yes! There is no physical camera inside this extension, so it's even **safer** than the FaceTime 1080P HD camera which contains a physical camera that can be controlled by hackers!
 
 ## Should I use this extension?
-
-If you plan to betray free software and consecrate all your money to an evil system, yes.
+Yes
+~~If you plan to betray free software and consecrate all your money to an evil system, yes.~~
 
 ## This is not 100% the same as the Apple one!
 
-If you love the Apple notch so much, you Apple fans just go to buy a real one!
+~~If you love the Apple notch so much, you Apple fans just go to buy a real one!~~
+We are just trying to provide the best exerience we can for all users, we understand that we cannot compare to Apple's greatness. 
 
 ## Your notch has a fixed size of 250x60, which is bigger than my whole screen!
 
